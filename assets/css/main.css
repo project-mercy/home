@@ -311,7 +311,9 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
-
+	:root{
+		--nav-height: 48px;
+	}
 /* Responsive top navigation (site-nav) */
 .site-nav {
 	position: fixed;
